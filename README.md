@@ -1,6 +1,6 @@
 ## Hi there, I am Supun 👋
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=SupunSSW" alt="SupunSSW" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SupunSSW" alt="SupunSSW" /> </p>
 
 ###  I'm a Developer and Gamer
 
