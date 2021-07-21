@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supunssw&label=Profile%20views&color=0e75b6&style=flat-square" alt="supunssw" /> </p>
 
-<p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=supunssw" alt="supunssw" /></a> </p>
+<p align="left"> <a><img src="https://github-profile-trophy.vercel.app/?username=supunssw" alt="supunssw" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/supun_ssw" target="blank"><img src="https://img.shields.io/twitter/follow/supun_ssw?logo=twitter&style=for-the-badge&" alt="supun_ssw" /></a> </p>
 
