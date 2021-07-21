@@ -1,4 +1,4 @@
-## Hi there, I am Supun 👋
+<h3> Hi there, I am Supun 👋 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SupunSSW" alt="SupunSSW" /> </p>
 
