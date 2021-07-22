@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/supun_ssw" target="blank"><img src="https://img.shields.io/twitter/follow/supun_ssw?logo=twitter&style=for-the-badge&" alt="supun_ssw" /></a> </p>
 
-- 🔭 I’m currently working at [DirectPay](https://directpay.lk/)
+- 🔭 I’m currently working at **[DirectPay](https://directpay.lk/)**
 
 - 🌱 I’m currently learning **everything 🤗️**
 
@@ -27,7 +27,7 @@
 <a href="https://stackoverflow.com/users/12719565/supun-sadeepa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12719565/supun-sadeepa" height="30" width="40" /></a>
 <a href="https://instagram.com/supun.sadeepa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun.sadeepa" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ssadeepa7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ssadeepa7" height="30" width="40" /></a>
-<a href="https://discord.gg/7200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7200" height="30" width="40" /></a>
+<a href="https://discord.gg/#7200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7200" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
