@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Supun 👋</h1>
-<h3 align="left">I am a Developer, Gamer</h3>
+<h3 align="left">I am a Solutions Architect</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supunssw&label=Profile%20views&color=0e75b6&style=flat-square" alt="supunssw" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/supun_ssw" target="blank"><img src="https://img.shields.io/twitter/follow/supun_ssw?logo=twitter&style=for-the-badge&" alt="supun_ssw" /></a> </p>
 
-- 🔭 I’m currently working at **[DirectPay](https://directpay.lk/)**
+- 🔭 I’m currently working at **[PayMedia](https://paymedia.lk/)**
 
 - 🌱 I’m currently learning **everything 🤗️**
 
